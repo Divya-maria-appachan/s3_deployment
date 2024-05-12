@@ -1,0 +1,14 @@
+{
+  "hosted-zone:account=317155657554:domainName=stormit.link:region=us-east-1": {
+    "Id": "/hostedzone/Z022048913NRM4QHTLA9J",
+    "Name": "stormit.link."
+  },
+  "hosted-zone:account=317155657554:domainName=divya.com:region=eu-west-1": {
+    "Id": "/hostedzone/Z2KYNO3CK6Q4AP",
+    "Name": "divya.com."
+  },
+  "hosted-zone:account=317155657554:domainName=divya.com:region=us-east-1": {
+    "Id": "/hostedzone/Z2KYNO3CK6Q4AP",
+    "Name": "divya.com."
+  }
+}
